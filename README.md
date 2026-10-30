@@ -11,6 +11,7 @@ The site explains the mission and gives an overview of every subject we offer no
 | English | https://mzansi-english.vercel.app/ |
 | Mathematics | https://mzansi-math.vercel.app/ |
 | Physical Sciences | https://mzansi-physics.vercel.app/ |
+| Life Sciences (Gr 11–12) | https://mzansi-life-science-klar.vercel.app/ |
 | Accounting | https://mzansi-accounting.vercel.app/ |
 | Geography | https://geog-companion.vercel.app/ |
 | Information Technology | https://it-helper-ten.vercel.app/ |

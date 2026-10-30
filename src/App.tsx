@@ -241,7 +241,7 @@ const roadmap = [
     step: '01',
     title: 'Core FET subjects',
     status: 'done',
-    text: 'English, Mathematics, Physical Sciences, Accounting, Geography and Information Technology — live and free.',
+    text: 'English, Mathematics, Physical Sciences, Life Sciences, Accounting, Geography and Information Technology — live and free.',
   },
   {
     step: '02',
